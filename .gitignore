@@ -1,0 +1,8 @@
+*.csv
+*.zip
+*.gz
+*.pkl
+*.h5
+*.joblib
+.ipynb_checkpoints/
+__pycache__/training.1600000.processed.noemoticon.csv
